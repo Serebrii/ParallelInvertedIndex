@@ -3,6 +3,9 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="FalseSharingTest/FalseSharingTest.vcxproj" />
-  <Project Path="IndexBuilder/IndexBuilder.vcxproj" />
+  <Folder Name="/Solution Items/">
+    <File Path="run_benchmarks.ps1" />
+  </Folder>
+  <Project Path="FalseSharingTest/FalseSharingTest.vcxproj" Id="b312cae5-643e-40e2-b8a4-278896410185" />
+  <Project Path="IndexBuilder/IndexBuilder.vcxproj" Id="1dc8b72e-6995-46a5-bf7b-83c7885f05ac" />
 </Solution>
